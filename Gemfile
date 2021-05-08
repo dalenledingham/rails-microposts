@@ -28,6 +28,7 @@ gem 'image_processing', '1.9.3'
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '1.7.2', require: false
 
+gem 'bootstrap-sass', '3.4.1'
 # gem 'mini-magick', '4.9.5'
 # gem 'active_storage_validations', '0.8.9'
 # gem 'faker', '2.11.0'
