@@ -1,4 +1,4 @@
-All source code in the [Ruby on Rails Tutorial](http://railstutorial.org/) is available jointly under the MIT License and the Beerware License.
+All source code in the [Ruby on Rails Tutorial](http://railstutorial.org/) is available jointly under the MIT License.
 
 ```
 The MIT License
